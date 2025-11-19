@@ -34,7 +34,7 @@ const Header = ({ currentUser }) => {
         {/* Logo / Title */}
         <div>
           <h1 style={{ fontSize: "1.8rem", margin: 0 }}>🏢 Room Booking System</h1>
-          <p style={{ fontSize: "0.95rem", opacity: 0.85 }}>Smart workspace management with dynamic pricing</p>
+          <p style={{ fontSize: "0.95rem", opacity: 0.85 }}></p>
         </div>
 
         {/* Navigation */}
