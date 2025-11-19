@@ -35,9 +35,7 @@ const Header = ({ currentUser }) => {
         <div>
           <h1 style={{ fontSize: "1.8rem", margin: 0 }}>🏢 Room Booking System</h1>
           <p style={{ fontSize: "0.95rem", opacity: 0.85 }}> API response handling on free-tier
- hosting—the first request may take 30-40 sec
- onds due to Render cold start, but all subse
- quent requests perform smoothly.</p>
+ hosting—the first request may take 30-40 seconds due to Render cold start, but all subsequent requests perform smoothly.</p>
         </div>
 
         {/* Navigation */}
